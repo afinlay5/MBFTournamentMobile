@@ -13,7 +13,8 @@ Available on Android and iOS.
 - CPU <>
 
 # License Stipulations
-- Use pursuant to cost in Play store, 
+- Use pursuant to cost in Google Play store, Apple App Store.
+- In-app purchases are optional and may be available.
 - Free to contribute.
 - Not free to re-publish source code or fork the source code repository.
 - Not free to distribute binaries or any derivative of the source code.
